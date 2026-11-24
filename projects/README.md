@@ -42,7 +42,7 @@ This counts how many of 200 random messages decrypt correctly. With the toy para
 sage -c 'load("euclid.sage"); print(mod_inv(7, 40))'
 ```
 
-The scripts were last checked in November 2026 with passagemath 10.8, a pip-installable distribution of SageMath. The two notebooks were saved with a plain Python kernel, so switch the kernel to SageMath before running them.
+The scripts were last checked in November 2026 with passagemath 10.8, a pip-installable distribution of SageMath. The two notebooks are set to the SageMath kernel (`sagemath`) and run from top to bottom without errors.
 
 ## `hash-based-signatures/` (Python 3)
 
