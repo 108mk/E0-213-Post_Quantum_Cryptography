@@ -72,10 +72,11 @@ Lectures 2 and 8 have no date on their title slides.
 
 ## Licence and credits
 
-This repository mixes my own work with material that belongs to other people, so the [CC0 1.0](LICENSE) dedication does not cover everything in it.
+This repository mixes my own work with material that belongs to other people, so no single licence covers everything in it.
 
-- **My own work** is released under CC0 1.0: the lecture-14 scribe and its LaTeX source, the scribe exercises, the notes and the README files.
-- **Joint work with Ishan Pandey** (the A1 and A2 slides and the RC4 notebooks) is shared with my co-author's agreement.
+- **My own writing** is licensed under [CC BY 4.0](LICENSE): the lecture-14 scribe and its LaTeX source, the scribe exercises, the notes and the README files. You may reuse and adapt it as long as you give credit.
+- **Code I write on my own** is licensed under the [MIT licence](LICENSE-CODE). At present all the code here is joint or third-party work, listed below.
+- **Joint work** is shared with my co-authors' agreement and is not covered by the two licences above: the A1 and A2 slides and the RC4 notebooks, written with Ishan Pandey, and the Sage scripts in `projects/lattice/`, which we wrote together in class during the lattice lectures.
 - **Course material** by Dr. Sanjit Chatterjee and Dr. Tapas Pandit (the lecture slides and the class test) is shared with the instructors' permission and remains theirs.
 - **Classmates' work** is shared with each author's consent and remains theirs: the scribes by Eleena Gupta, Ishan Pandey, Aman Tyagi, Prasanth Kumar A S and Swapnoneel Sarkar, and the paper summary by Rajiv Sangle.
 - **Third-party material** remains the property of its authors and publishers: Tanja Lange's slides and code, and the published papers and conference slides in `references/`. Sources are listed in [`references/README.md`](references/README.md).

@@ -4,6 +4,8 @@ Small implementations that go with the lectures. They use toy parameters and are
 
 ## `lattice/` (SageMath)
 
+These scripts were written together in class during the lattice lectures.
+
 | File | Goes with | What it does |
 |---|---|---|
 | [`euclid.sage`](lattice/euclid.sage) | Lecture 19 | Euclid's algorithm, the extended algorithm and modular inverse, printing every step. Also Euclid for polynomials |
